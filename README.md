@@ -1,5 +1,5 @@
 ### Hi there, I'm a golang/c engineer.
-Currently I'm working on Domain Driven Desing/Hexagonal based gloang archtecture, 
+Currently I'm working on opensource DomainDrivenDesing/Hexagonal based gloang archtecture,<br>
 with menu-based casbin support, grpc, gin, swagger etc...
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
