@@ -1,5 +1,8 @@
 ### Hi there, I'm a golang/c engineer.
 
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+
+
 <!--
 **andriykutsevol/andriykutsevol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
